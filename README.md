@@ -56,7 +56,17 @@ create invalid.csv from invalid array and valid.csv from valid array and store o
 ======================================
 DEMO URL
 ======================================
-<a href="http://people.rit.edu/~smt9471/739/vimeo/demo.php" >Link </a>
+<ol>
+<li>
+  <a href="http://people.rit.edu/~smt9471/739/vimeo/demo.php" >Link </a>
+</li>
+<li>
 <a href="http://people.rit.edu/~smt9471/739/vimeo/clips.csv" >clips.csv </a>
+</li>
+<li>
 <a href="http://people.rit.edu/~smt9471/739/vimeo/valid.csv" >valid.csv </a>
+</li>
+<li>
 <a href="http://people.rit.edu/~smt9471/739/vimeo/invalid.csv" >invalid.csv </a>
+</li>
+</ol>
